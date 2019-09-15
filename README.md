@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello World
+
+My name is Eric, just another body trying to learn and hopefully make money.
